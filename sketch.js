@@ -1,9 +1,4 @@
-// Daniel Shiffman
-// http://youtube.com/thecodingtrain
-// http://codingtra.in
 
-// Transfer Learning Feature Extractor Classification with ml5
-// https://youtu.be/eeO-rWYFuG0
 
 
 var game = (function(){
